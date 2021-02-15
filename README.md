@@ -10,3 +10,6 @@ Then follow these steps:
 2. Copy and paste DRAWIDv0.26.jar file in this folder
 2. Type in the address line in the top of the window: "cmd" and press enter
 3. Type the following command: java -jar  DRAWIDv0.26.jar 
+
+# Citing
+If you use DRAWID, please cite our paper: [DRAWID: user-friendly java software for chromosome measurements and idiogram drawing] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5740402/)
