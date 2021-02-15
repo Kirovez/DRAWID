@@ -12,4 +12,4 @@ Then follow these steps:
 3. Type the following command: java -jar  DRAWIDv0.26.jar 
 
 # Citing
-If you use DRAWID, please cite our paper: [DRAWID: user-friendly java software for chromosome measurements and idiogram drawing] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5740402/)
+If you use DRAWID, please cite our paper: [DRAWID: user-friendly java software for chromosome measurements and idiogram drawing](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5740402/)
